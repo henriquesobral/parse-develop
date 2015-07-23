@@ -7,7 +7,7 @@
   "dependencies": {
     "forever-monitor": "~1.2.3",
     "rc": "~0.4.0",
-    "parse-cloud": "~0.0.3",
+    "parse-cloud": "https://github.com/henriquesobral/parse-cloud/archive/master.tar.gz",
     "parse-express-cookie-session": "~0.0.3",
     "parse-express-https-redirect": "~0.0.1",
     "parse-express-raw-body": "~0.0.1",
